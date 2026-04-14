@@ -1,5 +1,5 @@
-#ifndef Q1_MAX_SUBARRAY_H
-#define Q1_MAX_SUBARRAY_H
+#ifndef Q1_H
+#define Q1_H
 
 int maxSubarray(int A[], int l, int h);
 
